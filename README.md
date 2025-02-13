@@ -4,4 +4,4 @@ I did this project in collaboration with UNP. The Popular Movies Dashboard, a da
 
 PROJECT DASHBOARD FILE: https://drive.google.com/file/d/1e6LD5nvslFxonqjYmxWwRsiPaGk7PMjA/view?usp=sharing
 
-PROJECT PDF FILE: https://drive.google.com/file/d/1hQxmk55rc-BOIjGxZZHskAZ7FbE2AIpT/view?usp=sharing
+PROJECT PDF FILE: https://drive.google.com/file/d/1jkKSHBmAO_qVD_oNJimkogQeQN5ZFgve/view?usp=sharing
